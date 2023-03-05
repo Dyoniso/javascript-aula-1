@@ -1,13 +1,13 @@
 # Atividade 2
 
 ```
-Neste capítulo você aprenderá como codificar o seu própio HTML para fazer requisições personalizadas
+Neste capítulo você aprenderá como codificar o servidor HTTP de sua aplicação.
 ```
 
 ```
-Existe um modelo de arquivo html neste repositório. 
-O seu objetivo será códificar uma layout com um campo de texto e um botão.
-Após isso, desenvolva um script que realize uma requisição após clicar neste mesmo botão.
+Abra o arquivo app.js, e siga as etapas para configurar o seu servidor HTTP.
 ```
 
-Após o desenvolvimento com o layout junto ao script, você finalizou o capítulo! 
+Após o desenvolvimento do app.js, abra o prompt de comando e digite /node.js
+Caso aparecer a mensagem: Servidor HTTP iniciado na url http://localhost:8080
+Você finalizou este capitulo!
