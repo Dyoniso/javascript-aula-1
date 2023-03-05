@@ -1,12 +1,11 @@
-# Atividade 1
-### Bem vindo ao curso de como Integrar o Node.js no Chat GPT
+# Atividade 2
 
-```Neste capitulo será necessário instalar todas as ferramentas que vamos usar ao longo do curso.```
+```
+Neste capítulo você aprenderá como codificar o seu própio HTML para fazer requisições personalizadas
+```
 
-1. Visual Code
-2. Postman
-3. Node.js
-4. Npm
-5. Git
+```
+Existe um modelo de arquivo html neste repositório. O seu objetivo será códificar uma layout com um campo de texto e um botão. Após isso, desenvolva um script que realize uma requisição após clicar neste mesmo botão.
+```
 
-Após a instação, você finalizou o capitulo! 
+Após o desenvolvimento com o layout junto ao script, você finalizou o capítulo! 
