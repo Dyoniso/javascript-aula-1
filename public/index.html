@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Aula de Javascript OpenAI - Exemplo 1 </title>
+
+    <script src="https://code.jquery.com/jquery-3.6.3.slim.min.js" integrity="sha256-ZwqZIVdD3iXNyGHbSYdsmWP//UBokj2FHAxKuSBKDSo=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <h1> Teste de Requisição com OpenAI </h1>
+        <h4> Digite o conteúdo. </h4>
+
+        <textarea type="text" id="chatdata" style="width: 500px; height: 200px;"></textarea>
+
+        <div class="btn-container">
+            <button id="btnEnviar"> Enviar </button>
+        </div>
+
+        <div id="api-content">
+
+        </div>
+    </div>
+
+    <script>
+        $('#btnEnviar').on('click', (e) => {
+            let content = $('#chatdata').val()
+
+            fetch(`/openai?content=${content}`)
+            .then(async(res) => {
+                let data = await res.json()
+                $('#api-content').text(JSON.stringify(data))
+
+            }).catch((err) => {
+                console.log(err)
+
+            })
+        })
+    </script>
+</body>
+</html>
