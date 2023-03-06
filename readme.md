@@ -5,8 +5,11 @@ Para ajudar a fixar o conteúdo apresentado pelo professor, preparamos uma lista
 As atividades estão organizadas em uma lista de tarefas que está disponível no arquivo anexado ao repositório.
 Esperamos que essas atividades ajudem você a consolidar seu aprendizado e se sintam mais confiantes em relação ao conteúdo do curso.
 
-```Para começar, baixe e instale as ferramentes solicitadas abaixo. (Afinal de contas, não usaremos o bloco que nota)```
-​
+```
+Para começar, baixe e instale as ferramentes solicitadas abaixo.
+(Afinal de contas, não usaremos o bloco que nota)
+```
+
 ```
 1. Visual Code. (VSCode)
 2. Postman.
