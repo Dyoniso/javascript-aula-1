@@ -1,4 +1,4 @@
-# Apresentação
+# Atividade - 1 - Apresentação
 ### Dominando a integração do ChatGPT com o Node.js em um Dia! Seja Bem-vindo Guerreiro! 
 
 Para ajudar a fixar o conteúdo apresentado pelo professor, preparamos uma lista simples de atividades contendo todo o conteúdo do curso.
