@@ -24,4 +24,4 @@ Utilize o seguinte código no head da sua página:
 <link rel="stylesheet" href="mystyle.css">
 ```
 
-> Parabéns pelo esforço e dedicação! 
+> Parabéns pelo esforço e dedicação! 🎉🎉🎉
