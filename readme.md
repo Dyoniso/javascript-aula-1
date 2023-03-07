@@ -3,7 +3,8 @@
 ```
 Neste capítulo, você irá aprender a codificar o arquivo manager.js. 
 Esse arquivo será responsável por gerenciar as requisições que a API executará no OpenAI. 
-Ao final do capítulo, você estará apto a desenvolver um gerenciador de requisições eficiente para a sua aplicação.
+Ao final do capítulo, você estará apto a desenvolver um gerenciador 
+de requisições eficiente para a sua aplicação.
 ```
 
 ```
