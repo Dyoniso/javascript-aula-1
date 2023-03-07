@@ -13,10 +13,11 @@ Tudo isso para que você possa criar soluções personalizadas e eficientes de f
 No repositório, há um modelo de arquivo HTML para você utilizar como base.
 Seu objetivo será criar um layout com um campo de texto e um botão, utilizando técnicas simples de codificação.
 Depois disso, você irá desenvolver um script para enviar uma requisição assim que o botão for clicado.
-Com este exercício, você irá aprimorar suas habilidades em HTML e aprender a enviar requisições personalizadas usando JavaScript.
+Com este exercício, você irá aprimorar suas habilidades em HTML 
+e aprender a enviar requisições personalizadas usando JavaScript.
 ```
 
-#### Ei.. Não se esqueça de adicionar o Jquery no '<head>' do seu Html
+#### Ei.. Não se esqueça de adicionar o Jquery no 'head' do seu Html
 
 ```
 <script src="https://code.jquery.com/jquery-3.6.3.slim.min.js"
